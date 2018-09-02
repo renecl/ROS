@@ -1,0 +1,430 @@
+lec: 0 title: Hello (Real) World with Ros
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_0_Hello_Real_World_with_ROS"
+       data-youtubeid="dOB0eyiGflw"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1 title: ROS Essentials
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1_ROS_Essentials"
+       data-youtubeid="0qUiBV94vL8"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.1 title: Finding out what's happening ROS Node
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-1_Finding_out_whats_happening_ROS_Node"
+       data-youtubeid="eqNDKlW3nKM"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.2 title: Finding out what's happening ROS Topics
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-2_Finding_out_whats_happening_ROS_Topics"
+       data-youtubeid="45WNgtntZys"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3 title: Build your own ROS Application
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3_Build_your_own_ROS_Application"
+       data-youtubeid="ci5a4dSmHZY"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.1/1.3.2 title: Build your own ROS Application - Publisher node
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-1_Build_your_own_ROS_application_Publisher_node"
+       data-youtubeid="gSTuuEykD4g"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.3 title: Ros file system part one
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-3_ROS_file_system_part_one"
+       data-youtubeid="bG3tDJV-I48"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.3 title: Ros file system part two
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-3_ROS_file_system_part_two"
+       data-youtubeid="5_I5ZYbbZKs"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.4 title:  Build your own Ros appl. - Custom message types
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-4_Build_your_own_ROS_app_Custom_message_types"
+       data-youtubeid="-7iNb7la3Ls"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.5 title: Build your own ROS appl. - define and build
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-5_Build_your_own_ROS_app_Define_and_build"
+       data-youtubeid="5vwyfS7kM5k"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.6 title: Build your own ROS appl. - Publisher node
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-6_Build_your_own_ROS_appl_Publisher_node"
+       data-youtubeid="rHnMmyPhnHo"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.3.7 title: Build your own ROS appl. - Subscribe to topic with ....
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-3-7_Build_your_own_ROS_appl_subscribe_to_topic_with_custom_message_type"
+       data-youtubeid="Za9uhhcJ9K8"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.4.1 title: ROS services code illustration Part 1
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-4-1_ROS_Services_code_illustration_Part_1"
+       data-youtubeid="BS2Rfo1GuIw"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.4.1 title: ROS services code illustration Part 2
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-4-1_ROS_Services_code_illustration_Part_2"
+       data-youtubeid="ufoxhGzXvrQ"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.5 (wordt 1.4) title: ROS Services request response comm
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-4_Ros_Services_request_response"
+       data-youtubeid="MVnXfGLQb-c"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.5.1 title: ROS Actions action message and goal processing
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-5-1_ROS_Actions_action_message_and_goal_processing"
+       data-youtubeid="wcq_64asaWc"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.5.2 title: ROS Actions code illustration Part 1
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-5-2_ROS_Actions_code_illustration_Part_1"
+       data-youtubeid="NGHym4h7th8"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.5.2 title: ROS Actions code illustration Part 2
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-5-2_ROS_Actions_code_illustration_Part_2"
+       data-youtubeid="kY0FGTzusPA"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.6 (wordt 1.5) title: ROS Actions client server communication
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-5_ROS_Actions_client_server"
+       data-youtubeid="whDNzdOx2TI"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1.6  title: ROS launch files
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_1-6_ROS_Launch_files"
+       data-youtubeid="Rpj2_FBLkwI"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: None title: week 1 outro
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_1/ROS1x_2018_Week_1_Outro"
+       data-youtubeid="Pq36Evbqbi0"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1 title: Autonomous navigation for mobile robots (Vervallen)
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-1-1_Autonomous_navigation_for_mobile_robots"
+       data-youtubeid="tpqEEQXh-jA"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 2 title: How can we navigate? (Vervallen)
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-1-2_How_can_we_navigate"
+       data-youtubeid="zzeaMV8QI58"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1 title: Localization Theory
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-2-1_Localization_Theory"
+       data-youtubeid="DLmA1VD7mbA"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 2 title: Map registration
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-2-2_Map_registration"
+       data-youtubeid="OGRi-ix_I9o"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1 title: Mapping Theory
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-3-1_Mapping_Theory"
+       data-youtubeid="0vdojvFewXU"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 2 title: Mapping with Turtlebot
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-3-2_Mapping_with_Turtlebot"
+       data-youtubeid="6Wh8lXVtTsg"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 1 title: Path planning theory
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-4-1_Path_planning_theory"
+       data-youtubeid="bnL5rhkgTKs"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 2 title: Ros Navigation Stack
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_3-4-2_Ros_Navigation_Stack"
+       data-youtubeid="dX0dSbGDRnw"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: None title: Additional learning module
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_3/ROS1x_2018_Week_3_Additional_learning_module"
+       data-youtubeid="3hA9XIv424I"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 4 title: Manipulation
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_4/ROS1x_2018_Week_4_4-0_Manipulation"
+       data-youtubeid="U-9SQf8gICk"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 4.1 title: Manipulation Basic Concepts
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_4/ROS1x_2018_Week_4_4-1_Manipulation_Basic_Concepts"
+       data-youtubeid="ZktvsKtP9m8"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 4.2 title: Manipulation with Movelt!
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_4/ROS1x_2018_Week_4_4-2_Manipulation_with_Movelt"
+       data-youtubeid="tY2fx1LcLEA"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: None title: Perception
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_5/ROS1x_2018_Week_5_Perception"
+       data-youtubeid="mSAu-0yqKH0"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: None title: To see what is perception
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_5/ROS1x_2018_Week_5_To_see_what_is_perception"
+       data-youtubeid="PpfbjDxeK8c"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.2 title: Behavior design with FlexBE
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-2_Behavior_design_with_FlexBE"
+       data-youtubeid="B5pY2dbtHck"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.2.2 title: Install and confiure FlexBE
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-2-2_Install_and_configure_FlexBE"
+       data-youtubeid="8_uxkgLMjpU"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.2.3 title: FlexBE app user interface
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-2-3_FlexBE_App_user_interface"
+       data-youtubeid="zPj-UyVPBPk"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.3.1 title: Creating a behavior - PART 1
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-3-1_Creating_a_behavior_Part_1"
+       data-youtubeid="Bi3bHZeq6fk"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.3.1 title: Creating a behavior - PART 2
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-3-1_Creating_a_behavior_Part_2"
+       data-youtubeid="y7k0MFZZVuE"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.3.2 title: Configure a behavior
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-3-2_Configure_a_behavior"
+       data-youtubeid="52a1mOJjqwQ"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.4.1 title: Developing a FlexBE States
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-4-1_Developing_a_FlexBe_states"
+       data-youtubeid="B_r8PLK2T8c"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
+lec: 6.4.2 title: FlxBE States Lifecycle
+ 
+<iframe class="dframe"
+       data-downloadid="ROS1x-Hello_Real_World_with_ROS/Week_6/ROS1x_2018_Week_6_6-4-2_FlexBE_state_lifecycle"
+       data-youtubeid="ebUkeqKik3E"></iframe>
+<script src="https://delftxdownloads.tudelft.nl/_tools/dl/js/builder.js"></script>
+ 
+ 
+-----------------------------------------------------------
+ 
